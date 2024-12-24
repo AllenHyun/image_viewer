@@ -10,13 +10,6 @@ import java.util.HashMap;
 import java.util.Map;
 
 
-import javax.swing.*;
-import java.awt.*;
-import java.awt.event.ActionEvent;
-import java.awt.event.ActionListener;
-import java.util.HashMap;
-import java.util.Map;
-
 public class MainFrame extends JFrame {
     private final SwingImageDisplay imageDisplay;
     private final Map<String, Command> commands;

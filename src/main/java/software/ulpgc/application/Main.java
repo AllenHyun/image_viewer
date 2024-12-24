@@ -11,7 +11,7 @@ public class Main {
     public static void main(String[] args) {
         MainFrame mainFrame = MainFrame.create();
         mainFrame
-                .initWidth(firstImage())
+                .initWith(firstImage())
                 .add("next", new NextCommand(mainFrame.imageDisplay()))
                 .add("previous", new PreviousCommand(mainFrame.imageDisplay()))
                 .setVisible(true);
