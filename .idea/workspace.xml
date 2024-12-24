@@ -6,11 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="30097f72-7109-4845-92aa-28a7b3fe97d4" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/software/ulpgc/application/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/software/ulpgc/application/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/software/ulpgc/application/MainFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/software/ulpgc/application/MainFrame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/software/ulpgc/application/SwigImageDeserializer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/software/ulpgc/application/SwingImageDeserializer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/software/ulpgc/application/SwingImageDisplay.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/software/ulpgc/application/SwingImageDisplay.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/software/ulpgc/io/ImageDeserializer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/software/ulpgc/io/ImageDeserializer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/software/ulpgc/model/Image.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/software/ulpgc/model/Image.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +40,10 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -98,7 +97,28 @@
       <option name="project" value="LOCAL" />
       <updated>1735041949486</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Some errors are corrected">
+      <created>1735042409910</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1735042409910</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Some errors are corrected">
+      <created>1735042465967</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1735042465967</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Some errors are corrected">
+      <created>1735042719234</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1735042719234</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -108,6 +128,7 @@
     <MESSAGE value="created two interfaces and the class FileImageLoader" />
     <MESSAGE value="created the command to execute the next and previous image" />
     <MESSAGE value="added class to create the aplication" />
-    <option name="LAST_COMMIT_MESSAGE" value="added class to create the aplication" />
+    <MESSAGE value="Some errors are corrected" />
+    <option name="LAST_COMMIT_MESSAGE" value="Some errors are corrected" />
   </component>
 </project>

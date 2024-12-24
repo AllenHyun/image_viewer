@@ -10,7 +10,7 @@ public interface Image {
     Image previous();
 
     enum Format{
-        jpg,Jpeg, Png, Gif
+        Jpg,Jpeg, Png, Gif
     }
 
     record  Dimension(int width, int height){
