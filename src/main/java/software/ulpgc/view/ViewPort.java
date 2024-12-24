@@ -1,7 +1,5 @@
 package software.ulpgc.view;
 
-import java.lang.ref.PhantomReference;
-
 public record ViewPort(int x, int y, int width, int height) {
     public static ViewPort ofSize(int width, int height){
         return new ViewPort(0, 0, width, height);
